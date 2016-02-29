@@ -1,0 +1,5 @@
+int drawable ic_launcher 0x7f020000
+int id plugin_gallery_num_tv 0x7f050001
+int id plugin_gallery_vpf 0x7f050000
+int layout plugin_gallery_layout 0x7f030000
+int string app_name 0x7f040000
